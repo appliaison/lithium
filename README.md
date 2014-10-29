@@ -23,6 +23,14 @@ Lithium
   - MongoDB, Express, Angular, Node.js
 
 
+Installation
+------------
+
+The following tutorial was followed :
+
+http://yeoman.io/codelab/setup.html
+
+
 > npm install -g yo generator-angular grunt-cli bower
 
 Listing globally installed NPM packages and version
