@@ -22,3 +22,10 @@ Lithium
 
   - MongoDB, Express, Angular, Node.js
 
+
+> npm install -g yo generator-angular grunt-cli bower
+
+Listing globally installed NPM packages and version
+---------------------------------------------------
+
+npm list -g --depth=0
